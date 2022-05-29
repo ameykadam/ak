@@ -1,0 +1,12 @@
+.header_div{
+    background: gray;
+    font-size: 15px;
+}
+.footer{
+    position: fixed;
+    background: rgb(255, 254, 254);
+    margin-bottom: 0px;
+    color: gray;
+    text-align: center;
+    width: 100%;
+}
